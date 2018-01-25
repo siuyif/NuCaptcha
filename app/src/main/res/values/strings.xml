@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">nuCaptcha</string>
+
+    <string name="any_text">
+        <![CDATA[Enter the <b><font color=#ff0000>RED </b>text into the text field.]]>
+    </string>
+</resources>
